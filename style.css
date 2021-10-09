@@ -1,6 +1,14 @@
+@font-face {
+    font-family: 'paybooc-Bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-07@1.0/paybooc-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 article {
     display: flex;
     flex-direction: column;
+    font-family: 'paybooc-Bold';
 }
 
 .question {
@@ -13,7 +21,8 @@ article {
 
 #img {
     height: 100%;
-    width: 400px;
+    width: 330px;
+    text-align: center;
     margin: 0 auto;
 }
 
