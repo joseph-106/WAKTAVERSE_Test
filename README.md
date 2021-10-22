@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/52f1f16b-b9ed-4616-b844-bf75d7fda482/deploy-status)](https://app.netlify.com/sites/waktaverse-test/deploys)
 ## 왁타버스 캐릭터 테스트
 ### 나와 어울리는 왁타버스 캐릭터를 찾아보자!
 
