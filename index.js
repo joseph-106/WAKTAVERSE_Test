@@ -14,22 +14,22 @@ var q = {
     12: {"title": "문제 12번", "type": "JP", "A": "J", "B": "P"}
 }
 var result = {
-    "ISTJ": {"character": "우왁굳", "explain": "ISTJ 설명", "img": "img/istj.jpg"},
-    "ISFJ": {"character": "곽춘식", "explain": "ISFJ 설명", "img": "img/isfj.png"},
-    "ESTJ": {"character": "이덕수 할아바이", "explain": "ESTJ 설명", "img": "img/estj.png"},
-    "ESFJ": {"character": "엔젤님", "explain": "ESFJ 설명", "img": "img/esfj.png"},
-    "ISTP": {"character": "새우튀김", "explain": "ISTP 설명", "img": "img/istp.png"},
-    "ISFP": {"character": "부정형 인간", "explain": "ISFP 설명", "img": "img/isfp.jpg"},
-    "ESTP": {"character": "비즈니스 킴", "explain": "ESTP 설명", "img": "img/estp.png"},
-    "ESFP": {"character": "독고혜지", "explain": "ESFP 설명", "img": "img/esfp.png"},
-    "INFP": {"character": "뢴트게늄 & 아이네", "explain": "INFP 설명", "img": "img/infp.jpg"},
-    "INTP": {"character": "주르르", "explain": "INTP 설명", "img": "img/intp.jpg"},
-    "ENFP": {"character": "릴파", "explain": "ENFP 설명", "img": "img/enfp.jpg"},
-    "ENTP": {"character": "풍신", "explain": "ENTP 설명", "img": "img/entp.png"},
-    "INFJ": {"character": "징버거 & 비챤", "explain": "INFJ 설명", "img": "img/infj.jpg"},
-    "INTJ": {"character": "냉참", "explain": "INTJ 설명", "img": "img/intj.png"},
-    "ENFJ": {"character": "도파민 박사", "explain": "ENFJ 설명", "img": "img/enfj.jpg"},
-    "ENTJ": {"character": "고세구", "explain": "ENTJ 설명", "img": "img/entj.jpg"}
+    "ISTJ": {"character": "우왁굳", "explain": "ISTJ 설명", "img": "static/img/istj.jpg"},
+    "ISFJ": {"character": "곽춘식", "explain": "ISFJ 설명", "img": "static/img/isfj.png"},
+    "ESTJ": {"character": "이덕수 할아바이", "explain": "ESTJ 설명", "img": "static/img/estj.png"},
+    "ESFJ": {"character": "엔젤님", "explain": "ESFJ 설명", "img": "static/img/esfj.png"},
+    "ISTP": {"character": "새우튀김", "explain": "ISTP 설명", "img": "static/img/istp.png"},
+    "ISFP": {"character": "부정형 인간", "explain": "ISFP 설명", "img": "static/img/isfp.jpg"},
+    "ESTP": {"character": "비즈니스 킴", "explain": "ESTP 설명", "img": "static/img/estp.png"},
+    "ESFP": {"character": "독고혜지", "explain": "ESFP 설명", "img": "static/img/esfp.png"},
+    "INFP": {"character": "뢴트게늄 & 아이네", "explain": "INFP 설명", "img": "static/img/infp.jpg"},
+    "INTP": {"character": "주르르", "explain": "INTP 설명", "img": "img/static/intp.jpg"},
+    "ENFP": {"character": "릴파", "explain": "ENFP 설명", "img": "static/img/enfp.jpg"},
+    "ENTP": {"character": "풍신", "explain": "ENTP 설명", "img": "static/img/entp.png"},
+    "INFJ": {"character": "징버거 & 비챤", "explain": "INFJ 설명", "img": "static/img/infj.jpg"},
+    "INTJ": {"character": "냉참", "explain": "INTJ 설명", "img": "static/img/intj.png"},
+    "ENFJ": {"character": "도파민 박사", "explain": "ENFJ 설명", "img": "static/img/enfj.jpg"},
+    "ENTJ": {"character": "고세구", "explain": "ENTJ 설명", "img": "static/img/entj.jpg"}
 }
 function start() { 
     $(".start").hide();

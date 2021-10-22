@@ -5,6 +5,11 @@
     font-style: normal;
 }
 
+body {
+    background-color:#090021;
+    color: whitesmoke;
+}
+
 article {
     display: flex;
     flex-direction: column;
@@ -19,11 +24,26 @@ article {
     display: none;
 }
 
+.progress-bar{
+    background-color: #560099;
+}
+
+.btn, .btn:focus{
+    background-color: #560099;
+    border: 0;
+    box-shadow:none;
+}
+
+.btn:hover, .btn:active{
+    background-color: rebeccapurple;
+}
+
 #img {
     height: 100%;
     width: 330px;
     text-align: center;
     margin: 0 auto;
+    border-radius: 5px;
 }
 
 .share {
