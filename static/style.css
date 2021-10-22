@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color:#090021;
+    background-color:#000000;
     color: whitesmoke;
 }
 
@@ -25,20 +25,34 @@ article {
 }
 
 .progress-bar{
-    background-color: #560099;
+    background-color: #0bb892;
 }
 
 .btn, .btn:focus{
-    background-color: #560099;
+    background-color:#0bb892;
     border: 0;
     box-shadow:none;
 }
 
 .btn:hover, .btn:active{
-    background-color: rebeccapurple;
+    background-color: #78e3cc;
 }
 
-#img {
+#img1{
+    height: 100%;
+    width: 330px;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+#img2{
+    height: 100%;
+    width: 330px;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+#img3{
     height: 100%;
     width: 330px;
     text-align: center;
