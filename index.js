@@ -71,3 +71,6 @@ function next() {
         num++; //num 변수를 활용해 객체 번호를 하나씩 올리는 구조
     }
 }
+function reload() { 
+    location.reload();
+}
