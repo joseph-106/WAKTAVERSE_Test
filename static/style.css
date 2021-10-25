@@ -25,11 +25,11 @@ article {
 }
 
 .progress-bar{
-    background-color: #0bb892;
+    background-color: #00C5A7;
 }
 
 .btn, .btn:focus{
-    background-color:#0bb892;
+    background-color:#00C5A7;
     border: 0;
     box-shadow:none;
 }
@@ -59,7 +59,9 @@ article {
     margin: 0 auto;
     border-radius: 5px;
 }
-
+#main_title{
+    color: #00C5A7;
+}
 .share {
     margin: 0 auto;
 }
