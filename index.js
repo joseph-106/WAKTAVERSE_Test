@@ -15,13 +15,13 @@ var q = {
 }
 var result = {
     "ISTJ": {"character": "우왁굳", "explain": "ISTJ 설명", "img1": "static/img/istj.jpg", "img2": "static/img/esfj.png", "img3": "static/img/enfj.jpg"},
-    "ISFJ": {"character": "곽춘식", "explain": "ISFJ 설명", "img1": "static/img/isfj.png", "img2": "static/img/esfp.png", "img3": "static/img/entj.jpg"},
+    "ISFJ": {"character": "미츠네 하쿠", "explain": "ISFJ 설명", "img1": "static/img/isfj.jpg", "img2": "static/img/esfp.png", "img3": "static/img/entj.jpg"},
     "ESTJ": {"character": "이덕수 할아바이", "explain": "ESTJ 설명", "img1": "static/img/estj.png", "img2": "static/img/isfp.jpg", "img3": "static/img/infj.jpg"},
     "ESFJ": {"character": "엔젤님", "explain": "ESFJ 설명", "img1": "static/img/esfj.png", "img2": "static/img/istj.jpg", "img3": "static/img/intj.png"},
     "ISTP": {"character": "새우튀김", "explain": "ISTP 설명", "img1": "static/img/istp.png", "img2": "static/img/enfj.jpg", "img3": "static/img/enfp.jpg"},
     "ISFP": {"character": "부정형 인간", "explain": "ISFP 설명", "img1": "static/img/isfp.jpg", "img2": "static/img/estj.png", "img3": "static/img/entp.png"},
     "ESTP": {"character": "비즈니스 킴", "explain": "ESTP 설명", "img1": "static/img/estp.png", "img2": "static/img/istj.jpg", "img3": "static/img/infp.jpg"},
-    "ESFP": {"character": "독고혜지", "explain": "ESFP 설명", "img1": "static/img/esfp.png", "img2": "static/img/isfj.png", "img3": "static/img/intp.jpg"},
+    "ESFP": {"character": "독고혜지", "explain": "ESFP 설명", "img1": "static/img/esfp.png", "img2": "static/img/isfj.jpg", "img3": "static/img/intp.jpg"},
     "INFP": {"character": "뢴트게늄 & 아이네", "explain": "INFP 설명", "img1": "static/img/infp.jpg", "img2": "static/img/entj.jpg", "img3": "static/img/estp.png"},
     "INTP": {"character": "주르르", "explain": "INTP 설명", "img1": "static/img/intp.jpg", "img2": "static/img/enfj.jpg", "img3": "static/img/esfp.png"},
     "ENFP": {"character": "릴파", "explain": "ENFP 설명", "img1": "static/img/enfp.jpg", "img2": "static/img/intj.png", "img3": "static/img/istp.png"},
@@ -29,7 +29,7 @@ var result = {
     "INFJ": {"character": "징버거 & 비챤", "explain": "INFJ 설명", "img1": "static/img/infj.jpg", "img2": "static/img/entp.png", "img3": "static/img/estj.png"},
     "INTJ": {"character": "냉참", "explain": "INTJ 설명", "img1": "static/img/intj.png", "img2": "static/img/enfp.jpg", "img3": "static/img/esfj.png"},
     "ENFJ": {"character": "도파민 박사", "explain": "ENFJ 설명", "img1": "static/img/enfj.jpg", "img2": "static/img/istp.png", "img3": "static/img/istj.jpg"},
-    "ENTJ": {"character": "고세구", "explain": "ENTJ 설명", "img1": "static/img/entj.jpg", "img2": "static/img/infp.jpg", "img3": "static/img/isfj.png"}
+    "ENTJ": {"character": "고세구", "explain": "ENTJ 설명", "img1": "static/img/entj.jpg", "img2": "static/img/infp.jpg", "img3": "static/img/isfj.jpg"}
 }
 function start() { 
     $(".start").hide();
