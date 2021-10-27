@@ -20,7 +20,7 @@ var result = {
     "ESFJ": {"character": "엔젤님", "explain": "ESFJ 설명", "img1": "static/img/esfj.png", "img2": "static/img/istj.jpg", "img3": "static/img/intj.png"},
     "ISTP": {"character": "새우튀김", "explain": "ISTP 설명", "img1": "static/img/istp.png", "img2": "static/img/enfj.jpg", "img3": "static/img/enfp.jpg"},
     "ISFP": {"character": "부정형 인간", "explain": "ISFP 설명", "img1": "static/img/isfp.jpg", "img2": "static/img/estj.png", "img3": "static/img/entp.png"},
-    "ESTP": {"character": "비즈니스 킴", "explain": "ESTP 설명", "img1": "static/img/estp.png", "img2": "static/img/istj.jpg", "img3": "static/img/infp.jpg"},
+    "ESTP": {"character": "김치만두번영택사스가", "explain": "ESTP 설명", "img1": "static/img/estp.png", "img2": "static/img/istj.jpg", "img3": "static/img/infp.jpg"},
     "ESFP": {"character": "독고혜지", "explain": "ESFP 설명", "img1": "static/img/esfp.png", "img2": "static/img/isfj.jpg", "img3": "static/img/intp.jpg"},
     "INFP": {"character": "뢴트게늄 & 아이네", "explain": "INFP 설명", "img1": "static/img/infp.jpg", "img2": "static/img/entj.jpg", "img3": "static/img/estp.png"},
     "INTP": {"character": "주르르", "explain": "INTP 설명", "img1": "static/img/intp.jpg", "img2": "static/img/enfj.jpg", "img3": "static/img/esfp.png"},
