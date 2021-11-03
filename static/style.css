@@ -64,6 +64,11 @@ article {
 }
 #mbti_text{
     color: #6e6e6e;
+    font-size: 18px;
+}
+#presume_text{
+    color: #6e6e6e;
+    font-size: 12px;
 }
 .share {
     margin: 0 auto;
