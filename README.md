@@ -24,6 +24,38 @@
 
 > 추정: 해당 캐릭터의 유형은 제작자가 임의로 추정했습니다.
 
+### 질문
+* EI
+
+* 나는 이세돌 컨텐츠가.. (SN)
+  * 조금 급한 느낌이 있었다고 생각한다 (S)
+  * 참으로 시의적절하다고 생각한다 (N)
+
+* TF
+
+* JP
+
+
+### 설명
+* ISTJ:
+* ISFJ:
+* ESTJ:
+* ESFJ:
+* ISTP:
+* ISFP:
+* ESTP:
+* ESFP:
+* INFP:
+* INTP:
+* ENFP:
+* ENTP:
+* INFJ:
+* INTJ:
+* ENFJ:
+* ENTJ:
+
+[참고자료](https://m.cafe.daum.net/leaderz/7mA3/4)
+
 ### 들어가지 못한 고멤
 - 캘리컬리 데이비슨
 - 개냥이
