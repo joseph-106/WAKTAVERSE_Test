@@ -78,3 +78,22 @@ article {
     width: 320px;
     margin: 0 auto;
 }
+
+#explain_box {
+    width: 300px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 18px;
+}
+
+@media screen and (min-width: 769px) {
+    #explain_box {
+        width: 650px;
+    }
+}
+
+#copyright {
+    color: #6e6e6e;
+    font-size: 11px;
+}
