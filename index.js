@@ -248,7 +248,7 @@ var result = {
         "explain1": "인내심이 많고 독창적이며 원하는 일이라면 끝까지 이루려고 합니다.", 
         "explain2": "타인에게 말없이 영향력을 미치며, 따뜻한 관심을 가지고 있습니다.",
         "explain3": "양심적으로 행동하며 원리원칙을 중시합니다.",
-        "explain4": "환신에 찬 신념을 가지고 있기에 존경을 받으며 사람들이 따릅니다.",
+        "explain4": "확신에 찬 신념을 가지고 있기에 존경을 받으며 사람들이 따릅니다.",
         "img1": "static/img/infj.jpg", 
         "img2": "static/img/entp.png", 
         "img3": "static/img/estj.png", 
